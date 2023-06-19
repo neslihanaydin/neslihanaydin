@@ -17,7 +17,6 @@ Currently, I am pursuing post-baccalaureate studies in the Computer Science Prog
 🌱 I am currently progressing in Android application development and I am always open to learning new technologies. My goal is to contribute to the technology world by creating useful and innovative mobile applications for users.
 
 🌐 Contact:
-- GitHub: [github.com/neslihanaydin](https://github.com/neslihanaydin)
 - LinkedIn: [linkedin.com/in/neslihanturpcu](https://linkedin.com/in/neslihanturpcu)
 
 
