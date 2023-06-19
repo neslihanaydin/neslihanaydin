@@ -27,7 +27,7 @@ Currently, I am pursuing post-baccalaureate studies in the Computer Science Prog
 <img src="https://github-readme-stats.vercel.app/api?username=neslihanaydin&count_private=true&show_icons=true&include_all_commits=true" align="left" />
 
 <p>
-<a href="https://github.com/neslihanaydin/github-readme-stats"> 
+<a href="https://github.com/neslihanaydin"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neslihanaydin&hide=TeX&layout=compact" height="195"/>
   </a>
 </p>
